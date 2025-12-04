@@ -1,0 +1,17 @@
+[
+  "python", "java", "c++", "c#", "javascript", "typescript", "go", "ruby", "php", "swift", "kotlin", "scala",
+  "react", "angular", "vue.js", "node.js", "next.js", "svelte",
+  "html", "css", "scss", "sass", "less", "tailwind css",
+  "sql", "mysql", "postgresql", "mongodb", "redis", "microsoft sql server", "sql server", "sqlite", "cassandra", "dynamodb", "oracle", "pl/sql",
+  "aws", "azure", "gcp", "google cloud", "heroku", "netlify", "vercel", "digitalocean",
+  "ec2", "s3", "rds", "lambda", "ecs", "eks", "fargate", "cloudformation", "vpc", "iam", "route 53", "beanstalk",
+  "azure vm", "blob storage", "azure sql database", "azure functions", "azure devops", "azure pipelines",
+  "compute engine", "cloud storage", "gke", "google kubernetes engine", "cloud functions",
+  "docker", "kubernetes", "jenkins", "gitlab", "github", "github actions", "jira",
+  "ansible", "puppet", "chef", "terraform", "packer", "vault",
+  "prometheus", "grafana", "datadog", "new relic", "splunk", "elk stack",
+  "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy", "matplotlib", "seaborn",
+  "fastapi", "flask", "django", "spring boot", "ruby on rails", ".net",
+  "machine learning", "deep learning", "data science", "nlp", "natural language processing", "computer vision",
+  "agile", "scrum", "devops", "ci/cd", "power bi", "tableau", "linux", "unix", "shell scripting", "bash"
+]

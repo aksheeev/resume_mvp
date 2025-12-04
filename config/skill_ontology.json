@@ -1,0 +1,32 @@
+{
+  "Frontend Development": [
+    "react", "angular", "vue.js", "javascript", "typescript", "html", "css", "scss", "sass", "less", "tailwind css", "next.js", "svelte"
+  ],
+  "Backend Development": [
+    "node.js", "python", "java", "c#", "c++", "go", "ruby", "php", "swift", "kotlin", "scala", 
+    "fastapi", "flask", "django", "spring boot", "ruby on rails", ".net"
+  ],
+  "Database Management": [
+    "sql", "mysql", "postgresql", "mongodb", "redis", "microsoft sql server", "sql server", "sqlite", "cassandra", "dynamodb", "oracle", "pl/sql"
+  ],
+  "Data Science & AI": [
+    "python", "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy", "matplotlib", "seaborn",
+    "machine learning", "deep learning", "nlp", "natural language processing", "computer vision", "data science"
+  ],
+  "Cloud & DevOps": [
+    "aws", "azure", "gcp", "google cloud", "heroku", "netlify", "vercel", "digitalocean",
+    "ec2", "s3", "rds", "lambda", "ecs", "eks", "fargate", "cloudformation", "vpc", "iam", "route 53", "beanstalk",
+    "azure vm", "blob storage", "azure sql database", "azure functions", "azure devops", "azure pipelines",
+    "compute engine", "cloud storage", "gke", "google kubernetes engine", "cloud functions",
+    "docker", "kubernetes", "jenkins", "gitlab", "github", "github actions",
+    "ansible", "puppet", "chef", "terraform", "packer", "vault",
+    "prometheus", "grafana", "datadog", "new relic", "splunk", "elk stack",
+    "devops", "ci/cd", "linux", "unix", "shell scripting", "bash"
+  ],
+  "Project Management": [
+    "agile", "scrum", "jira", "github"
+  ],
+  "Business Intelligence": [
+    "power bi", "tableau", "sql"
+  ]
+}

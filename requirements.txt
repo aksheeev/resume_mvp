@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+spacy
+PyPDF2
+python-docx
+pandas
+scikit-learn
